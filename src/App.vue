@@ -68,7 +68,7 @@
       </GlowElement>
     </GlowCapture>
     <div class="mt-12 space-y-2 text-center">
-      <div class="text-gray-200">
+      <p class="text-gray-200">
         Its a demo application for
         <a
           href="https://github.com/aksharahegde/vue-glow"
@@ -76,7 +76,15 @@
           >vue-glow</a
         >
         plugin
-      </div>
+      </p>
+      <p class="text-gray-400">
+        Nuxt version of plugin:
+        <a
+          href="https://github.com/aksharahegde/nuxt-glow"
+          class="underline hover:text-blue-400"
+          >nuxt-glow</a
+        >
+      </p>
       <p class="text-gray-400">
         Developed by
         <a
