@@ -1,6 +1,6 @@
 # Demo application showcasing usage of VueGlow plugin
 
-Demo URL: vueglow.vercel.app
+Demo URL: [vueglow.vercel.app](https://vueglow.vercel.app)
 
 VueGlow plugin can be found here: [Vue Glow](https://github.com/aksharahegde/vue-glow)
 
